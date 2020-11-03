@@ -8,7 +8,7 @@ git clone https://github.com/sciduck/ece8051.git
 3. Project > Open Project
 2. Project > New uVision Project...
 3. Navigate to ece8051
-4. Choose 8051.uvproj
+4. Choose <b>8051.uvproj</b>
 ## Contributing
 1. Add a new group named "LabX" <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/svggfQb/Add-Group.png" alt="Add-Group" border="0"></a>
